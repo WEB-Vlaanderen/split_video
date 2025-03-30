@@ -47,8 +47,15 @@ for i, row in df.iterrows():
     end_time = row['end_time']
     t = time_difference(start_time, end_time)
     name = row["name"]
-    output_file = f"{args.output_folder}/{name}.mp4"
+    output_file = f"{args.output_folder}/{name}.mkv"
     if not os.path.exists(output_file):
         ffmpeg_command = f"ffmpeg -ss '{start_time}' -i '{video}' -t '{t}' -c:v copy -c:a copy '{output_file}'"
         print(ffmpeg_command)
         os.system(ffmpeg_command)
+
+
+for i, row in df.iterrows():
+    name = row["name"]
+    output_file = f"{args.output_folder}/{name}.mkv"
+    if not os.path.exists(output_file):
+        print(f"Error: {output_file} was not created")
