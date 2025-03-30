@@ -1,85 +1,138 @@
-"video","start_time","end_time","name"
-"PGM/Blackmagic HyperDeck Studio Mini_0000.mp4","00:00","03:53","001_pgm"
-"PGM/Blackmagic HyperDeck Studio Mini_0000.mp4","15:22","19:37","005_pgm"
-"PGM/Blackmagic HyperDeck Studio Mini_0000.mp4","23:28","25:10","010_011_012_pgm_WU"
-"PGM/Blackmagic HyperDeck Studio Mini_0001.mp4","10:53","13:47","010_pgm"
-"PGM/Blackmagic HyperDeck Studio Mini_0001.mp4","14:18","18:17","011_pgm"
-"PGM/Blackmagic HyperDeck Studio Mini_0001.mp4","18:21","21:28","012_pgm"
-"PGM/Blackmagic HyperDeck Studio Mini_0001.mp4","25:39","28:55","013_pgm"
-"PGM/Blackmagic HyperDeck Studio Mini_0001.mp4","40:09","43:35","017_pgm"
-"PGM/Blackmagic HyperDeck Studio Mini_0001.mp4","46:55","50:33","019_020_021_pgm_WU"
-"PGM/Blackmagic HyperDeck Studio Mini_0001.mp4","50:50","54:13","019_pgm"
-"PGM/Blackmagic HyperDeck Studio Mini_0001.mp4","54:14","57:18","020_pgm"
-"PGM/Blackmagic HyperDeck Studio Mini_0001.mp4","57:21","1:01:48","021_pgm"
-"PGM/Blackmagic HyperDeck Studio Mini_0001.mp4","1:01:36","1:08:43","024_pgm"
-"PGM/Blackmagic HyperDeck Studio Mini_0001.mp4","1:31:11","1:35:04","026_027_030_pgm_WU"
-"PGM/Blackmagic HyperDeck Studio Mini_0001.mp4","1:39:22","1:44:07","026_pgm"
-"PGM/Blackmagic HyperDeck Studio Mini_0001.mp4","1:44:08","1:48:47","027_pgm"
-"PGM/Blackmagic HyperDeck Studio Mini_0001.mp4","1:57:59","2:02:12","030_pgm"
-"PGM/Blackmagic HyperDeck Studio Mini_0001.mp4","2:02:21","2:06:21","031_pgm"
-"PGM/Blackmagic HyperDeck Studio Mini_0001.mp4","2:06:32","2:11:40","032_pgm"
-"PGM/Blackmagic HyperDeck Studio Mini_0001.mp4","2:11:41","2:14:41","035_038_pgm_WU"
-"PGM/Blackmagic HyperDeck Studio Mini_0001.mp4","2:24:19","2:28:25","035_pgm"
-"PGM/Blackmagic HyperDeck Studio Mini_0001.mp4","2:32:37","2:37:15","038_pgm"
-"PGM/Blackmagic HyperDeck Studio Mini_0001.mp4","2:37:17","2:40:17","041_042_043_pgm_WU"
-"PGM/Blackmagic HyperDeck Studio Mini_0001.mp4","2:46:19","2:50:28","041_pgm"
-"PGM/Blackmagic HyperDeck Studio Mini_0001.mp4","2:50:30","2:54:36","042_pgm"
-"PGM/Blackmagic HyperDeck Studio Mini_0001.mp4","2:54:40","2:55:58","043_pgm"
-"PGM/Blackmagic HyperDeck Studio Mini_0001.mp4","3:01:47","3:04:55","046_049_pgm_WU"
-"PGM/Blackmagic HyperDeck Studio Mini_0001.mp4","3:09:27","3:14:08","046_pgm"
-"PGM/Blackmagic HyperDeck Studio Mini_0002.mp4","3:23:13","3:27:25","049_pgm"
-"PGM/Blackmagic HyperDeck Studio Mini_0002.mp4","0:41:48","0:44:48","054_055_058_pgm_WU"
-"PGM/Blackmagic HyperDeck Studio Mini_0002.mp4","0:50:17","0:54:45","054_pgm"
-"PGM/Blackmagic HyperDeck Studio Mini_0002.mp4","0:54:47","0:59:09","055_pgm"
-"PGM/Blackmagic HyperDeck Studio Mini_0002.mp4","1:09:09","1:13:13","058_pgm"
-"PGM/Blackmagic HyperDeck Studio Mini_0002.mp4","1:18:34","1:22:01","060_061_064_065_WU"
-"PGM/Blackmagic HyperDeck Studio Mini_0002.mp4","1:22:03","1:27:05","060_pgm"
-"PGM/Blackmagic HyperDeck Studio Mini_0002.mp4","1:27:05","1:31:58","061_pgm"
-"PGM/Blackmagic HyperDeck Studio Mini_0002.mp4","1:36:34","1:41:15","064_pgm"
-"PGM/Blackmagic HyperDeck Studio Mini_0002.mp4","1:41:16","1:46:25","065_pgm"
-"PGM/Blackmagic HyperDeck Studio Mini_0002.mp4","2:00:20","2:05:24","068_pgm"
-"PGM/Blackmagic HyperDeck Studio Mini_0002.mp4","2:05:25","2:09:55","069_pgm"
-"PGM/Blackmagic HyperDeck Studio Mini_0002.mp4","2:09:56","2:14:33","070_pgm"
-"PGM/Blackmagic HyperDeck Studio Mini_0002.mp4","2:18:52","2:24:46","072_pgm"
-"PGM/Blackmagic HyperDeck Studio Mini_0002.mp4","2:42:39","2:45:39","078_pgm_WU"
-"PGM/Blackmagic HyperDeck Studio Mini_0002.mp4","3:14:23","3:20:16","078_pgm"
-"CAM_jury/HyperDeck_0004.mov","00:00","01:50","001_jury"
-"CAM_jury/HyperDeck_0006.MP4","00:00","3:32","005_jury"
-"CAM_jury/HyperDeck_0009.MP4","03:08","06:54","010_jury"
-"CAM_jury/HyperDeck_0010.MP4","0:00","3:38","011_jury"
-"CAM_jury/HyperDeck_0010.MP4","3:38","7:05","012_jury"
-"CAM_jury/HyperDeck_0011.MP4","14:26","16:40","013_jury"
-"CAM_jury/HyperDeck_0011.MP4","20:44","21:22","019_020_021_jury_WU"
-"CAM_jury/HyperDeck_0012.MP4","00:00","02:15","020_jury"
-"CAM_jury/HyperDeck_0012.MP4","02:15","05:58","021_jury"
-"CAM_jury/HyperDeck_0012.MP4","05:58","09:35","024_jury"
-"CAM_jury/HyperDeck_0013.MP4","01:37","06:33","026_027_030_jury_WU"
-"CAM_jury/HyperDeck_0013.MP4","10:29","13:36","026_jury"
-"CAM_jury/HyperDeck_0013.MP4","13:36","18:39","027_jury"
-"CAM_jury/HyperDeck_0013.MP4","29:09","33:10","030_jury"
-"CAM_jury/HyperDeck_0013.MP4","33:10","37:10","031_jury"
-"CAM_jury/HyperDeck_0013.MP4","37:10","41:10","032_jury"
-"CAM_jury/HyperDeck_0013.MP4","40:57","45:18","035_038_jury_WU"
-"CAM_jury/HyperDeck_0013.MP4","55:32","58:32","035_jury"
-"CAM_jury/HyperDeck_0013.MP4","1:03:47","1:07:17","038_jury"
-"CAM_jury/HyperDeck_0013.MP4","1:07:17","1:11:47","041_042_043_jury_WU"
-"CAM_jury/HyperDeck_0013.MP4","1:11:47","1:16:32","041_jury"
-"CAM_jury/HyperDeck_0013.MP4","1:17:32","1:21:32","042_jury"
-"CAM_jury/HyperDeck_0013.MP4","1:21:47","1:25:02","043_jury"
-"CAM_jury/HyperDeck_0013.MP4","1:32:17","1:35:17","046_049_jury_WU"
-"CAM_jury/HyperDeck_0013.MP4","1:39:34","1:44:36","046_jury"
-"CAM_jury/HyperDeck_0013.MP4","1:54:21","1:58:36","049_jury"
-"CAM_jury/HyperDeck_0014.MP4","0:00","3:53","054_055_058_jury_WU"
-"CAM_jury/HyperDeck_0014.MP4","8:23","12:23","054_jury"
-"CAM_jury/HyperDeck_0014.MP4","12:23","16:26","055_jury"
-"CAM_jury/HyperDeck_0014.MP4","26:56","30:58","058_jury"
-"CAM_jury/HyperDeck_0014.MP4","36:18","40:41","060_061_064_065_WU"
-"CAM_jury/HyperDeck_0014.MP4","40:41","43:59","060_jury"
-"CAM_jury/HyperDeck_0014.MP4","43:59","48:59","061_jury"
-"CAM_jury/HyperDeck_0014.MP4","53:59","59:14","064_jury"
-"CAM_jury/HyperDeck_0014.MP4","59:14","1:03:21","065_jury"
-"CAM_jury/HyperDeck_0014.MP4","1:09:04","1:13:04","068_jury"
-"CAM_jury/HyperDeck_0014.MP4","1:13:04","1:18:34","069_jury"
-"CAM_jury/HyperDeck_0014.MP4","1:18:34","1:22:19","070_jury"
-"CAM_jury/HyperDeck_0014.MP4","1:27:19","1:32:19","072_jury"
-"CAM_jury/HyperDeck_0014.MP4","1:32:52","1:37:22","078_jury"
+video,start_time,end_time,name
+PGM/Blackmagic HyperDeck Studio Mini_0000.mp4,00:00,03:53,001_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0000.mp4,15:22,19:37,005_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0000.mp4,23:28,25:10,010_011_012_pgm_WU
+PGM/Blackmagic HyperDeck Studio Mini_0001.mp4,10:53,13:47,010_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0001.mp4,14:18,18:17,011_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0001.mp4,18:21,21:28,012_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0001.mp4,25:39,28:55,013_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0001.mp4,28:54,32:19,014_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0001.mp4,40:09,43:35,017_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0001.mp4,46:55,50:33,019_020_021_pgm_WU
+PGM/Blackmagic HyperDeck Studio Mini_0001.mp4,50:50,54:13,019_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0001.mp4,54:14,57:18,020_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0001.mp4,57:21,1:01:48,021_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0001.mp4,1:01:36,1:08:43,024_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0001.mp4,1:31:11,1:35:04,026_027_028_030_pgm_WU
+PGM/Blackmagic HyperDeck Studio Mini_0001.mp4,1:39:22,1:44:07,026_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0001.mp4,1:44:08,1:48:47,027_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0001.mp4,1:48:46,1:53:47,028_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0001.mp4,1:57:59,2:02:12,030_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0001.mp4,2:02:21,2:06:21,031_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0001.mp4,2:06:32,2:11:40,032_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0001.mp4,2:11:41,2:14:41,035_038_pgm_WU
+PGM/Blackmagic HyperDeck Studio Mini_0001.mp4,2:24:19,2:28:25,035_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0001.mp4,2:32:37,2:37:15,038_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0001.mp4,2:37:17,2:40:17,041_042_043_pgm_WU
+PGM/Blackmagic HyperDeck Studio Mini_0001.mp4,2:46:19,2:50:28,041_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0001.mp4,2:50:30,2:54:36,042_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0001.mp4,2:54:40,2:55:58,043_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0001.mp4,3:01:47,3:04:55,046_049_051_pgm_WU
+PGM/Blackmagic HyperDeck Studio Mini_0001.mp4,3:09:27,3:14:08,046_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0001.mp4,3:23:13,3:27:25,049_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0002.mp4,3:27:25,3:31:41,051_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0002.mp4,0:41:48,0:44:48,054_055_057_058_pgm_WU
+PGM/Blackmagic HyperDeck Studio Mini_0002.mp4,0:50:17,0:54:45,054_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0002.mp4,0:54:47,0:59:09,055_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0002.mp4,1:04:05,1:08:29,057_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0002.mp4,1:09:09,1:13:13,058_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0002.mp4,1:18:34,1:22:01,060_061_064_065_WU
+PGM/Blackmagic HyperDeck Studio Mini_0002.mp4,1:22:03,1:27:05,060_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0002.mp4,1:27:05,1:31:58,061_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0002.mp4,1:36:34,1:41:15,064_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0002.mp4,1:41:16,1:46:25,065_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0002.mp4,2:00:20,2:05:24,068_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0002.mp4,2:05:25,2:09:55,069_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0002.mp4,2:09:56,2:14:33,070_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0002.mp4,2:18:52,2:24:46,072_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0002.mp4,2:42:39,2:45:39,074_078_080_pgm_WU
+PGM/Blackmagic HyperDeck Studio Mini_0002.mp4,2:52:48,2:57:36,074_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0002.mp4,3:14:23,3:20:16,078_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0002.mp4,3:30:48,3:35:28,080_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0002.mp4,3:39:56,3:43:45,082_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0002.mp4,3:50:58,3:55:40,084_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0002.mp4,3:55:40,4:01:25,085_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0002.mp4,4:08:11,4:10:53,087_088_091_092_pgm_WU
+PGM/Blackmagic HyperDeck Studio Mini_0002.mp4,4:10:53,4:15:59,087_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0002.mp4,4:15:59,4:21:45,088_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0002.mp4,4:27:23,4:33:19,091_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0002.mp4,4:33:18,4:39:12,092_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0002.mp4,4:39:12,4:44:41,093_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0002.mp4,4:44:41,4:47:41,094_095_pgm_WU
+PGM/Blackmagic HyperDeck Studio Mini_0002.mp4,4:48:36,4:53:55,094_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0002.mp4,4:53:55,4:58:19,095_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0002.mp4,5:03:15,5:30:00,099_pgm_1
+PGM/Blackmagic HyperDeck Studio Mini_0003.mp4,0:00,01:34,099_pgm_2
+PGM/Blackmagic HyperDeck Studio Mini_0003.mp4,33:21,38:20,105_107_pgm_WU
+PGM/Blackmagic HyperDeck Studio Mini_0003.mp4,43:46,49:12,105_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0003.mp4,54:26,1:00:49,107_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0003.mp4,1:06:04,1:11:55,110_pgm_WU
+PGM/Blackmagic HyperDeck Studio Mini_0003.mp4,1:11:55,1:18:20,110_pgm
+PGM/Blackmagic HyperDeck Studio Mini_0003.mp4,1:54:52,2:09:55,podiumceremonie(laatste categorieën)
+CAM_jury/HyperDeck_0004.mov,00:00,01:50,001_jury
+CAM_jury/HyperDeck_0006.MP4,00:00,3:32,005_jury
+CAM_jury/HyperDeck_0009.MP4,03:08,06:54,010_jury
+CAM_jury/HyperDeck_0010.MP4,0:00,3:38,011_jury
+CAM_jury/HyperDeck_0010.MP4,3:38,7:05,012_jury
+CAM_jury/HyperDeck_0011.MP4,14:26,16:40,013_jury
+CAM_jury/HyperDeck_0011.MP4,16:40,20:06,014_jury
+CAM_jury/HyperDeck_0011.MP4,20:44,21:22,019_020_021_jury_WU
+CAM_jury/HyperDeck_0012.MP4,00:00,02:15,020_jury
+CAM_jury/HyperDeck_0012.MP4,02:15,05:58,021_jury
+CAM_jury/HyperDeck_0012.MP4,05:58,09:35,024_jury
+CAM_jury/HyperDeck_0013.MP4,01:37,06:33,026_027_028_030_jury_WU
+CAM_jury/HyperDeck_0013.MP4,10:29,13:36,026_jury
+CAM_jury/HyperDeck_0013.MP4,13:36,18:39,027_jury
+CAM_jury/HyperDeck_0013.MP4,18:40,23:28,028_jury
+CAM_jury/HyperDeck_0013.MP4,29:09,33:10,030_jury
+CAM_jury/HyperDeck_0013.MP4,33:10,37:10,031_jury
+CAM_jury/HyperDeck_0013.MP4,37:10,41:10,032_jury
+CAM_jury/HyperDeck_0013.MP4,40:57,45:18,035_038_jury_WU
+CAM_jury/HyperDeck_0013.MP4,55:32,58:32,035_jury
+CAM_jury/HyperDeck_0013.MP4,1:03:47,1:07:17,038_jury
+CAM_jury/HyperDeck_0013.MP4,1:07:17,1:11:47,041_042_043_jury_WU
+CAM_jury/HyperDeck_0013.MP4,1:11:47,1:16:32,041_jury
+CAM_jury/HyperDeck_0013.MP4,1:17:32,1:21:32,042_jury
+CAM_jury/HyperDeck_0013.MP4,1:21:47,1:25:02,043_jury
+CAM_jury/HyperDeck_0013.MP4,1:32:17,1:35:17,046_049_051_jury_WU
+CAM_jury/HyperDeck_0013.MP4,1:39:34,1:44:36,046_jury
+CAM_jury/HyperDeck_0013.MP4,1:54:21,1:58:36,049_jury
+CAM_jury/HyperDeck_0013.MP4,1:58:49,2:01:37,051_jury
+CAM_jury/HyperDeck_0014.MP4,0:00,3:53,054_055_057_058_jury_WU
+CAM_jury/HyperDeck_0014.MP4,8:23,12:23,054_jury
+CAM_jury/HyperDeck_0014.MP4,12:23,16:26,055_jury
+CAM_jury/HyperDeck_0014.MP4,20:57,25:51,057_jury
+CAM_jury/HyperDeck_0014.MP4,26:56,30:58,058_jury
+CAM_jury/HyperDeck_0014.MP4,36:18,40:41,060_061_064_065_WU
+CAM_jury/HyperDeck_0014.MP4,40:41,43:59,060_jury
+CAM_jury/HyperDeck_0014.MP4,43:59,48:59,061_jury
+CAM_jury/HyperDeck_0014.MP4,53:59,59:14,064_jury
+CAM_jury/HyperDeck_0014.MP4,59:14,1:03:21,065_jury
+CAM_jury/HyperDeck_0014.MP4,1:18:40,1:22:19,068_jury
+CAM_jury/HyperDeck_0014.MP4,1:23:36,1:27:19,069_jury
+CAM_jury/HyperDeck_0014.MP4,1:28:20,1:32:19,070_jury
+CAM_jury/HyperDeck_0014.MP4,1:37:36,1:41:17,072_jury
+CAM_jury/HyperDeck_0014.MP4,2:01:27,2:06:22,074_078_WU
+CAM_jury/HyperDeck_0014.MP4,2:10:22,2:15:35,074_jury
+CAM_jury/HyperDeck_0014.MP4,2:32:53,2:36:27,078_jury
+CAM_jury/HyperDeck_0014.MP4,2:44:06,2:47:30,080_082_084_085_WU
+CAM_jury/HyperDeck_0014.MP4,2:49:10,2:52:52,080_jury
+CAM_jury/HyperDeck_0014.MP4,2:58:28,3:02:15,082_jury
+CAM_jury/HyperDeck_0014.MP4,3:09:32,3:20:00,084_jury_1
+CAM_jury/HyperDeck_0015.MP4,0:00,0:22,084_jury_2
+CAM_jury/HyperDeck_0015.MP4,0:33,5:12,085_jury
+CAM_jury/HyperDeck_0015.MP4,11:28,16:53,087_088_091_092_jury_WU
+CAM_jury/HyperDeck_0015.MP4,16:53,20:42,087_jury
+CAM_jury/HyperDeck_0015.MP4,21:55,25:24,088_jury
+CAM_jury/HyperDeck_0016.MP4,04:50,08:49,091_jury
+CAM_jury/HyperDeck_0016.MP4,10:42,14:45,092_jury
+CAM_jury/HyperDeck_0016.MP4,14:45,20:46,093_jury
+CAM_jury/HyperDeck_0016.MP4,20:49,26:10,094_095_jury_WU
+CAM_jury/HyperDeck_0016.MP4,26:10,30:04,094_jury
+CAM_jury/HyperDeck_0016.MP4,30:04,35:07,095_jury
+CAM_jury/HyperDeck_0016.MP4,39:23,44:35,099_jury
+CAM_jury/HyperDeck_0016.MP4,1:16:35,1:22:14,105_107_jury_WU
+CAM_jury/HyperDeck_0016.MP4,1:27:55,1:31:28,105_jury
+CAM_jury/HyperDeck_0016.MP4,1:36:44,1:42:25,107_jury
+CAM_jury/HyperDeck_0016.MP4,1:48:51,1:56:08,110_jury_WU
+CAM_jury/HyperDeck_0016.MP4,1:56:08,2:00:08,110_jury
