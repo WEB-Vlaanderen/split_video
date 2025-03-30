@@ -42,13 +42,13 @@ def time_difference(start, end):
 for i, row in df.iterrows():
     print(row)
     # get the ffmpeg command to extract a clip from a video and reencoding it in x264 with crf 18
-    video = f"{args.input_folder}/{row["video"]}"
+    video = os.path.join(args.input_folder, row["video"])
     start_time = row['start_time']
     end_time = row['end_time']
     t = time_difference(start_time, end_time)
     name = row["name"]
     output_file = f"{args.output_folder}/{name}.mp4"
     if not os.path.exists(output_file):
-        ffmpeg_command = f"ffmpeg -ss '{start_time}' -i '{video}' -t '{t}' -c:v libx264 -crf 18 '{output_file}'"
+        ffmpeg_command = f"ffmpeg -ss '{start_time}' -i '{video}' -t '{t}' -c:v copy -c:a copy '{output_file}'"
         print(ffmpeg_command)
         os.system(ffmpeg_command)
